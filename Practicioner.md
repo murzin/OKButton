@@ -421,25 +421,25 @@
 
 * AWS Support
 four different Support plans to help you troubleshoot issues, lower costs, and efficiently use AWS services. 
-  * Basic
-      access to a limited selection of AWS Trusted Advisor
-      Additionally, you can use the AWS Personal Health Dashboard, a tool that provides alerts and remediation
-  * Developer
-      Best practice guidance
-      Client-side diagnostic tools
-      Building-block architecture support, which consists of guidance for how to use AWS offerings, features, and services together
-  * Business
-      Use-case guidance to identify AWS offerings, features, and services that can best support your specific needs
-      All AWS Trusted Advisor checks
-      Limited support for third-party software, such as common operating systems and application stack components
-  * Enterprise    
-      Application architecture guidance, which is a consultative relationship to support your company’s specific use cases and applications
-      Infrastructure event management: A short-term engagement with AWS Support that helps your company gain a better understanding of your use cases. This also provides your company with architectural and scaling guidance.
-      A Technical Account Manager
+  * __Basic__
+   - access to a limited selection of AWS Trusted Advisor
+   - Additionally, you can use the AWS Personal Health Dashboard, a tool that provides alerts and remediation
+  * __Developer__
+    - Best practice guidance
+    - Client-side diagnostic tools
+    - Building-block architecture support, which consists of guidance for how to use AWS offerings, features, and services together
+  * __Business__
+    - Use-case guidance to identify AWS offerings, features, and services that can best support your specific needs
+    - All AWS Trusted Advisor checks
+    - Limited support for third-party software, such as common operating systems and application stack components
+  * __Enterprise__    
+    - Application architecture guidance, which is a consultative relationship to support your company’s specific use cases and applications
+    - Infrastructure event management: A short-term engagement with AWS Support that helps your company gain a better understanding of your use cases. This also provides your company with architectural and scaling guidance.
+    - A Technical Account Manager
 
     These three Support plans have pay-by-the-month pricing and require no long-term contracts.
 
-AWS Marketplace 
+* AWS Marketplace 
     is a digital catalog that includes thousands of software listings from independent software vendors.
 
 
