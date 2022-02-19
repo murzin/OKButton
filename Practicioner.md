@@ -88,37 +88,36 @@
 * * *
 
 * Selecting a Region
-    Compliance with data governance and legal requirements
-    Proximity to your customers
-    Available services within a Region
-    Pricing
+  - Compliance with data governance and legal requirements
+  - Proximity to your customers
+  - Available services within a Region
+  - Pricing
 
 * Availability Zones
-    NCalifornia, Oregon, and GovCloud (US-West) are separate regions. Within the NCalifornia regions us-west-1, there are three Availability Zones (1a, 1b 1c) wich each contains data centers.
-    An Availability Zone is a single data center or a group of data centers within a Region.
-    ...tens of miles apart from each other. This is close enough tp jave low latency ...
+  - NCalifornia, Oregon, and GovCloud (US-West) are separate regions. Within the NCalifornia regions us-west-1, there are three Availability Zones (1a, 1b 1c) wich each contains data centers.
+  - An Availability Zone is a single data center or a group of data centers within a Region.
+  - ...tens of miles apart from each other. This is close enough to have low latency ...
 
 * Edge locations
-    An edge location is a site that Amazon CloudFront uses to store cached copies of your content closer to your customers for faster delivery.
+  - An edge location is a site that Amazon CloudFront uses to store cached copies of your content closer to your customers for faster delivery.
 
+* __Ways to interact with AWS services__
+  - The AWS Management Console is a web-based interface
+  - AWS CLI enables you to control multiple AWS services directly from the command line within one tool. Scripts.
+  - SDKs make it easier for you to use AWS services through an API designed for your programming language
 
-* Ways to interact with AWS services
-    The AWS Management Console is a web-based interface
-    AWS CLI enables you to control multiple AWS services directly from the command line within one tool. Scripts.
-    SDKs make it easier for you to use AWS services through an API designed for your programming language
+* AWS Elastic __Beanstalk__ 
+  - With AWS Elastic Beanstalk, you provide code and configuration settings, and Elastic Beanstalk deploys the resources necessary to perform the following tasks:
+    - Adjust capacity
+    - Load balancing
+    - Automatic scaling
+    - Application health monitoring
 
-* AWS Elastic Beanstalk * * * 
-    With AWS Elastic Beanstalk, you provide code and configuration settings, and Elastic Beanstalk deploys the resources necessary to perform the following tasks:
-        Adjust capacity
-        Load balancing
-        Automatic scaling
-        Application health monitoring
-
-* AWS CloudFormation 
+* AWS CloudFormation  __IFRASTR AS A CODE__
     With AWS CloudFormation, you can treat your infrastructure as code. This means that you can build an environment by writing lines of code instead of using the AWS Management Console to individually provision resources.
 
 
-* AWS Outposts???????????
+* __AWS Outposts__
     is a family of fully managed solutions delivering AWS infrastructure and services to virtually any on-premises or edge location for a truly consistent hybrid experience. Outposts solutions allow customers to extend and run native AWS services on premises, and is available in a variety of form factors, from 1U and 2U Outposts servers to 42U Outposts racks, and multiple rack deployments.
 
 
