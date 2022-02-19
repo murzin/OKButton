@@ -1,8 +1,8 @@
 # Module 1: Introduction to Amazon Web Services
 
-  Summarize the benefits of AWS
-  Describe differences between on-demand delivery and cloud deployments
-  Summarize the pay-as-you-go pricing model
+    Summarize the benefits of AWS
+    Describe differences between on-demand delivery and cloud deployments
+    Summarize the pay-as-you-go pricing model
 * * *
 
 * Deployment models for cloud computing
