@@ -39,43 +39,43 @@
     Summarize additional AWS compute options
 * * *
 
-Amazon EC2 instance types
-    General purpose instances
-    Compute optimized instances
-    Memory optimized instances
-    Accelerated computing instances
-    Storage optimized instances
+* Amazon EC2 instance types
+  - General purpose instances
+  - Compute optimized instances
+  - Memory optimized instances
+  - Accelerated computing instances
+  - Storage optimized instances
 
-Amazon EC2 pricing
-    On-Demand
-    Amazon EC2 Savings Plans
-    Reserved Instances
-    Spot Instances
-    Dedicated Hosts
+* Amazon EC2 pricing
+  - On-Demand
+  - Amazon EC2 Savings Plans
+  - Reserved Instances
+  - Spot Instances
+  - Dedicated Hosts
 
-Amazon EC2 Auto Scaling
-    Dynamic scaling responds to changing demand. 
-    Predictive scaling 
+* Amazon EC2 Auto Scaling
+  - Dynamic scaling responds to changing demand. 
+  - Predictive scaling 
 
-Elastic Load Balancing
-    Although Elastic Load Balancing and Amazon EC2 Auto Scaling are separate services, they work together to help ensure that applications running in Amazon EC2 can provide high performance and availability.     
+* Elastic Load Balancing
+  Although Elastic Load Balancing and Amazon EC2 Auto Scaling are separate services, they work together to help ensure that applications running in Amazon EC2 can provide high performance and availability.     
 
-Amazon Simple Notification Service (Amazon SNS) 
-    is a publish/subscribe service. Using Amazon SNS topics, a publisher publishes messages to subscribers. 
-    Using Amazon SNS topics, a publisher publishes messages to subscribers.
-Amazon Simple Queue Service (Amazon SQS) 
-    is a message queuing service.
-    send, store, and receive messages between software components, without losing messages 
-    user or service retrieves a message from the queue, processes it, and then deletes it from the queue
+* Amazon Simple Notification Service (Amazon SNS) 
+  - is a publish/subscribe service. Using Amazon SNS topics, a publisher publishes messages to subscribers. 
+  - Using Amazon SNS topics, a publisher publishes messages to subscribers.
 
-Serverless computing
-    With serverless computing, you can focus more on innovating new products and features instead of maintaining servers.
+* Amazon Simple Queue Service (Amazon SQS) 
+  - is a message queuing service.
+  - send, store, and receive messages between software components, without losing messages 
+  - user or service retrieves a message from the queue, processes it, and then deletes it from the queue
+
+* Serverless computing
+  - With serverless computing, you can focus more on innovating new products and features instead of maintaining servers.
     - AWS Lambda: is a service that lets you run code without needing to provision or manage servers. 
     - Amazon Elastic Container Service (Amazon ECS) is a highly scalable, high-performance container management system that enables you to run and scale containerized applications on AWS. 
     - Amazon Elastic Kubernetes Service (Amazon EKS) is a fully managed service that you can use to run Kubernetes on AWS. 
     - AWS Fargate is a serverless compute engine for containers. It works with both Amazon ECS and Amazon EKS.
     - AWS Fargate manages your server infrastructure for you.
-
 
 ===================================================================================================
 
