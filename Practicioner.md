@@ -354,18 +354,18 @@
 * * *
 
 * Amazon CloudWatch 
-    is a web service that enables you to monitor and manage various metrics and configure alarm actions based on data from those metrics.
-    With CloudWatch, you can create alarms
-    The CloudWatch dashboard feature enables you to access all the metrics for your resources from a single location.
+  - is a web service that enables you to monitor and manage various metrics and configure alarm actions based on data from those metrics.
+  - With CloudWatch, you can create alarms
+  - The CloudWatch dashboard feature enables you to access all the metrics for your resources from a single location.
 
 * AWS CloudTrail 
-    records API calls for your account. The recorded information includes the identity of the API caller, the time of the API call, the source IP address of the API caller, and more.
-    complete history of user activity and API calls for your applications and resources.
-    Within CloudTrail, you can also enable CloudTrail Insights. This optional feature allows CloudTrail to automatically detect unusual API activities in your AWS account.
+  - records API calls for your account. The recorded information includes the identity of the API caller, the time of the API call, the source IP address of the API caller, and more.
+  - complete history of user activity and API calls for your applications and resources.
+  - Within CloudTrail, you can also enable CloudTrail Insights. This optional feature allows CloudTrail to automatically detect unusual API activities in your AWS account.
     
 * AWS Trusted Advisor 
-    is a web service that inspects your AWS environment and provides real-time recommendations in accordance with AWS best practices.    
-    performance, fault tolerance
+  - is a web service that inspects your AWS environment and provides real-time recommendations in accordance with AWS best practices.    
+  - performance, fault tolerance
 
 
 ---
@@ -383,25 +383,25 @@
 * * *
 
 * The AWS Free Tier 
-    enables you to begin using certain services without having to worry
-        Always Free
-        12 Months Free
-        Trials
+  - enables you to begin using certain services without having to worry
+    -   Always Free
+    -   12 Months Free
+    -   Trials
 
 * How AWS pricing works
-    Pay for what you use.
-    Pay less when you reserve.
-    Pay less with volume-based discounts when you use more. (S3 grows - GB less)
+  - Pay for what you use.
+  - Pay less when you reserve.
+  - Pay less with volume-based discounts when you use more. (S3 grows - GB less)
 
 * The AWS Pricing Calculator 
-    lets you explore AWS services and create an estimate for the cost of your use cases on AWS.
+  - lets you explore AWS services and create an estimate for the cost of your use cases on AWS.
 
-    Compute Savings Plans - to a consistent amount of usage over a 1-year or 3-year term.
+  Compute Savings Plans - to a consistent amount of usage over a 1-year or 3-year term.
 
 * Use the AWS Billing & Cost Management dashboard 
-    to pay your AWS bill, 
-    monitor your usage, 
-    and analyze and control your costs.
+  - to pay your AWS bill, 
+  - monitor your usage, 
+  - and analyze and control your costs.
 
     Compare your current month-to-date balance with the previous month, and get a forecast of the next month based on current usage.
     View month-to-date spend by service.
