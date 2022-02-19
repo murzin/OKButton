@@ -492,23 +492,25 @@ organizes guidance into __six areas of focus__, called __Perspectives__. Each Pe
      - IT support managers
 
 
-6 strategies for migration
+__6 strategies for migration__
 
- *  Rehosting
-        also known as “lift-and-shift”
- *  Replatforming
-        “lift, tinker, and shift,” involves making a few cloud optimizations to realize a tangible benefit. Optimization is achieved without changing the core architecture of the application.
- *  Refactoring/re-architecting
-         involves reimagining how an application is architected and developed by using cloud-native features. Refactoring is driven by a strong business need to add features, scale, or performance that would otherwise be difficult to achieve in the application’s existing environment.
- *  Repurchasing
-        involves moving from a traditional license to a software-as-a-service model. 
- *  Retaining
-        consists of keeping applications that are critical for the business in the source environment. 
- *  Retiring
-        Retiring is the process of removing applications that are no longer needed.
+  *  Rehosting
+    - also known as “lift-and-shift”
+  *  Replatforming
+    - “lift, tinker, and shift,” involves making a few cloud optimizations to realize a tangible benefit. Optimization is achieved without changing the core architecture of the application.
+  *  Refactoring/re-architecting
+    - involves reimagining how an application is architected and developed by using cloud-native features. Refactoring is driven by a strong business need to add features, scale, or performance that would otherwise be difficult to achieve in the application’s existing environment.
+  *  Repurchasing
+    - involves moving from a traditional license to a software-as-a-service model. 
+  *  Retaining
+    - consists of keeping applications that are critical for the business in the source environment. 
+  *  Retiring
+    - Retiring is the process of removing applications that are no longer needed.
 
-The AWS Snow Family 
+* The AWS Snow Family 
+
     is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS. 
+
   * AWS Snowcone 
         is a small, rugged, and secure edge computing and data transfer device. 
         It features 2 CPUs, 4 GB of memory, and 8 TB of usable storage.    
