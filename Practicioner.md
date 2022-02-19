@@ -288,58 +288,58 @@
   * We recommend that you create individual IAM users for each person who needs to access AWS.
 
 * IAM policies
-    is a document that allows or denies permissions to AWS services and resources.  
-        Follow the security principle of least privilege when granting permissions. 
+  - is a document that allows or denies permissions to AWS services and resources.  
+  - Follow the security principle of least privilege when granting permissions. 
 
 * IAM groups
-    is a collection of IAM users. When you assign an IAM policy to a group, all users in the group are granted permissions specified by the policy.
+  - is a collection of IAM users. When you assign an IAM policy to a group, all users in the group are granted permissions specified by the policy.
 
 * IAM roles
-    An IAM role is an identity that you can assume to gain temporary access to permissions.
-       ...but at any given point in time, they can have access to only a single workstation.
-    Before an IAM user, application, or service can assume an IAM role, they must be granted permissions to switch to the role.    
-    AM roles are ideal for situations in which access to services or resources needs to be granted temporarily, instead of long-term.  
+  - An IAM role is an identity that you can assume to gain temporary access to permissions.
+  -    ...but at any given point in time, they can have access to only a single workstation.
+  - Before an IAM user, application, or service can assume an IAM role, they must be granted permissions to switch to the role.    
+  - AM roles are ideal for situations in which access to services or resources needs to be granted temporarily, instead of long-term.  
 
 * Multi-factor authentication
-    provides an extra layer of security for your AWS account.
+  - provides an extra layer of security for your AWS account.
 
 * AWS Organizations
-    You can use AWS Organizations to consolidate and manage multiple AWS accounts within a central location.
-    automatically creates a root,
-    you can centrally control permissions for the accounts in your organization by using service control policies (SCPs).***************************** SCP SCP for members and OUs
-    Consolidated billing 
-    In AWS Organizations, you can group accounts into organizational units (OUs)
+  - You can use AWS Organizations to consolidate and manage multiple AWS accounts within a central location.
+  - automatically creates a root,
+  - you can centrally control permissions for the accounts in your organization by using service control policies (SCPs). %%%% __SCP for members and OUs__
+  - Consolidated billing 
+  - In AWS Organizations, you can group accounts into organizational units (OUs)
 
 * AWS Artifact
-    is a service that provides on-demand access to AWS security and compliance reports and select online agreement
-    AWS Artifact Agreements
-    AWS Artifact Reports
+  - is a service that provides on-demand access to AWS security and compliance reports and select online agreement
+  - AWS Artifact Agreements
+  - AWS Artifact Reports
 
 * Customer Compliance Center 
-    contains resources to help you learn more about AWS compliance.     
-        AWS answers to key compliance questions
-        An overview of AWS risk and compliance
-        An auditing security checklist
+  - contains resources to help you learn more about AWS compliance.     
+    -   AWS answers to key compliance questions
+    -   An overview of AWS risk and compliance
+    -   An auditing security checklist
 
 * AWS Shield
-    is a service that protects applications against DDoS attacks.
-        AWS Shield Standard automatically protects all AWS customers at no cost
-        AWS Shield Advanced is a paid service that provides detailed attack diagnostics
+  - is a service that protects applications against DDoS attacks.
+    -   AWS Shield Standard automatically protects all AWS customers at no cost
+    -   AWS Shield Advanced is a paid service that provides detailed attack diagnostics
 
 * AWS Key Management Service (AWS KMS)
-    enables you to perform encryption operations through the use of cryptographic keys. A cryptographic key is a random string of digits used for locking (encrypting) and unlocking (decrypting) data
+  - enables you to perform encryption operations through the use of cryptographic keys. A cryptographic key is a random string of digits used for locking (encrypting) and unlocking (decrypting) data
 
 * AWS WAF
-    is a web application firewall that lets you monitor network requests that come into your web applications. 
-    AWS WAF works together with Amazon CloudFront and an Application Load Balancer.
-     it does this by using a web access control list (ACL) to protect your AWS resources.
+  - is a web application firewall that lets you monitor network requests that come into your web applications. 
+  - AWS WAF works together with Amazon CloudFront and an Application Load Balancer.
+  - it does this by using a web access control list (ACL) to protect your AWS resources.
 
 * Amazon Inspector
-    To perform automated security assessments, they decide to use
-    helps to improve the security and compliance of applications by running automated security assessments.
+  - To perform automated security assessments, they decide to use
+  - helps to improve the security and compliance of applications by running automated security assessments.
     
 * Amazon GuardDuty
-    is a service that provides intelligent threat detection for your AWS infrastructure and resources. It identifies threats by continuously monitoring the network activity and account behavior 
+  - is a service that provides intelligent threat detection for your AWS infrastructure and resources. It identifies threats by continuously monitoring the network activity and account behavior 
 
 
 
