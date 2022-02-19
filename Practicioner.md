@@ -152,7 +152,7 @@
     A subnet is a section of a VPC in which you can group resources based on security or operational needs. Subnets can be public or private. 
 
 * Network access control lists (ACLs)
-
+    
     A network access control list (ACL) is a virtual firewall that controls inbound and outbound traffic at the subnet level.
     Network ACLs perform stateless packet filtering.
 
@@ -181,36 +181,38 @@
 * * *
 
 * Instance stores
+
     Block-level storage volumes behave like physical hard drives.
     When the instance is terminated, you lose any data in the instance store.
 
 * Amazon Elastic Block Store (Amazon EBS) 
+
     is a service that provides block-level storage volumes that you can use with Amazon EC2 instances. If you stop or terminate an Amazon EC2 instance, all the data on the attached EBS volume remains available.    
     An EBS snapshot is an incremental backup.
     An Amazon EBS volume stores data in a single Availability Zone.
 
 * Amazon Simple Storage Service (Amazon S3)
-* Object storage
-    In object storage, each object consists of data, metadata, and a key.
-    is a service that provides object-level storage. Amazon S3 stores data as objects in buckets.
+    * Object storage
+        In object storage, each object consists of data, metadata, and a key.
+        is a service that provides object-level storage. Amazon S3 stores data as objects in buckets.
 
 * Amazon S3 storage classes
-   S3 Standard
+   - S3 Standard
         Designed for frequently accessed data
         Stores data in a minimum of three Availability Zones
-   S3 Standard-Infrequent Access (S3 Standard-IA)
+   - S3 Standard-Infrequent Access (S3 Standard-IA)
         Ideal for infrequently accessed data
         Similar to S3 Standard but has a lower storage price and higher retrieval price
-   S3 One Zone-Infrequent Access (S3 One Zone-IA)
+   - S3 One Zone-Infrequent Access (S3 One Zone-IA)
         Stores data in a single Availability Zone
         Has a lower storage price than S3 Standard-IA
-   S3 Intelligent-Tiering
+   - S3 Intelligent-Tiering
         Ideal for data with unknown or changing access patterns
         Requires a small monthly monitoring and automation fee per object
-   S3 Glacier
+   - S3 Glacier
         Low-cost storage designed for data archiving
         Able to retrieve objects within a few minutes to hours
-   S3 Glacier Deep Archive
+   - S3 Glacier Deep Archive
         Lowest-cost object storage class ideal for archiving
         Able to retrieve objects within 12 hours
 
