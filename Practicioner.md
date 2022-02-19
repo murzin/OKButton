@@ -396,19 +396,19 @@
 * The AWS Pricing Calculator 
   - lets you explore AWS services and create an estimate for the cost of your use cases on AWS.
 
-  Compute Savings Plans - to a consistent amount of usage over a 1-year or 3-year term.
+  __Compute Savings Plans__ - to a consistent amount of usage over a 1-year or 3-year term.
 
 * Use the AWS Billing & Cost Management dashboard 
   - to pay your AWS bill, 
   - monitor your usage, 
   - and analyze and control your costs.
 
-    Compare your current month-to-date balance with the previous month, and get a forecast of the next month based on current usage.
-    View month-to-date spend by service.
-    View Free Tier usage by service.
-    Access Cost Explorer and create budgets.
-    Purchase and manage Savings Plans.
-    Publish AWS Cost and Usage Reports.
+Compare your current month-to-date balance with the previous month, and get a forecast of the next month based on current usage.
+View month-to-date spend by service.
+View Free Tier usage by service.
+Access Cost Explorer and create budgets.
+Purchase and manage Savings Plans.
+Publish AWS Cost and Usage Reports.
 
 * Consolidated billing
      AWS Organizations also provides the option for consolidated billing. 
