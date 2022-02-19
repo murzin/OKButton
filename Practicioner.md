@@ -403,24 +403,24 @@
   - monitor your usage, 
   - and analyze and control your costs.
 
-Compare your current month-to-date balance with the previous month, and get a forecast of the next month based on current usage.
-View month-to-date spend by service.
-View Free Tier usage by service.
-Access Cost Explorer and create budgets.
-Purchase and manage Savings Plans.
-Publish AWS Cost and Usage Reports.
+* Compare your current month-to-date balance with the previous month, and get a forecast of the next month based on current usage.
+  - View month-to-date spend by service.
+  - View Free Tier usage by service.
+  - Access Cost Explorer and create budgets.
+  - Purchase and manage Savings Plans.
+  - Publish AWS Cost and Usage Reports.
 
 * Consolidated billing
-     AWS Organizations also provides the option for consolidated billing. 
+  -  AWS Organizations also provides the option for consolidated billing. 
 
 * In AWS Budgets, 
-    you can create budgets to plan your service usage, service costs, and instance reservations.
+  - you can create budgets to plan your service usage, service costs, and instance reservations.
 
 * AWS Cost Explorer 
-    is a tool that enables you to visualize, understand, and manage your AWS costs and usage over time.
+  - is a tool that enables you to visualize, understand, and manage your AWS costs and usage over time.
 
 * AWS Support
-    four different Support plans to help you troubleshoot issues, lower costs, and efficiently use AWS services. 
+four different Support plans to help you troubleshoot issues, lower costs, and efficiently use AWS services. 
   * Basic
       access to a limited selection of AWS Trusted Advisor
       Additionally, you can use the AWS Personal Health Dashboard, a tool that provides alerts and remediation
