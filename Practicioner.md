@@ -555,18 +555,18 @@ The Well-Architected Framework is based on five pillars:
         is the ability to run systems to deliver business value at the lowest price point. 
 
 Advantages of cloud computing
-  * Trade upfront expense for variable expense.
+  * Trade upfront expense for variable expense.__
         Instead of investing heavily in data centers and servers before you know how you’re going to use them, you can pay only when you consume computing resources.
-  * Benefit from massive economies of scale.
+  * __Benefit from massive economies of scale.__
        you can achieve a lower variable cost than you can get on your own.  
-  * Stop guessing capacity.
+  * __Stop guessing capacity.__
         you don’t have to predict how much infrastructure capacity you will need before deploying an application. 
-  * Increase speed and agility.
+  * __Increase speed and agility.__
         makes it easier for you to develop and deploy applications.
         provides your development teams with more time to experiment and innovate.
-  * Stop spending money running and maintaining data centers.
+  * __Stop spending money running and maintaining data centers.__
         to focus less on these tasks and more on your applications and customers.
-  * Go global in minutes.
+  * __Go global in minutes.__
          to quickly deploy applications to customers around the world, while providing them with low latency.
 
 
