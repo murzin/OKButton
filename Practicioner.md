@@ -77,7 +77,7 @@
     - AWS Fargate is a serverless compute engine for containers. It works with both Amazon ECS and Amazon EKS.
     - AWS Fargate manages your server infrastructure for you.
 
-===================================================================================================
+---
 
 # Module 3: Global Infrastructure and Reliability
 
@@ -107,7 +107,7 @@
     AWS CLI enables you to control multiple AWS services directly from the command line within one tool. Scripts.
     SDKs make it easier for you to use AWS services through an API designed for your programming language
 
-* AWS Elastic Beanstalk ===========
+* AWS Elastic Beanstalk * * * 
     With AWS Elastic Beanstalk, you provide code and configuration settings, and Elastic Beanstalk deploys the resources necessary to perform the following tasks:
         Adjust capacity
         Load balancing
@@ -123,7 +123,7 @@
 
 
 
-===================================================================================================
+---
 # Module 4: Networking
 
     Describe the basic concepts of networking
@@ -155,7 +155,7 @@ Amazon Virtual Private Cloud (Amazon VPC)
     Amazon Route 53 is a DNS web service. It gives developers and businesses a reliable way to route end users to internet applications hosted in AWS.
 
 
-===================================================================================================
+---
 
 # Module 5: Storage and Databases
 
@@ -251,7 +251,7 @@ Amazon Virtual Private Cloud (Amazon VPC)
         s an in-memory cache for DynamoDB. 
 
 
-===================================================================================================
+---
 
 # Module 6: Security
 
@@ -333,7 +333,7 @@ Amazon Virtual Private Cloud (Amazon VPC)
 
 
 
-===================================================================================================
+---
 
 # Module 7: Monitoring and Analytics
 
@@ -358,7 +358,7 @@ Amazon Virtual Private Cloud (Amazon VPC)
     performance, fault tolerance
 
 
-===================================================================================================
+---
 
 # Module 8: Pricing and Support
 
@@ -433,7 +433,7 @@ AWS Marketplace
     is a digital catalog that includes thousands of software listings from independent software vendors.
 
 
-===================================================================================================
+---
 
 # Module 9: Migration and Innovation
 
@@ -509,7 +509,7 @@ The AWS Snow Family
         transfer up to 100 petabytes of data per Snowmobile, a 45-foot long ruggedized shipping container
 
 
-===================================================================================================
+---
 
 # Module 10: The Cloud Journey
 
