@@ -25,7 +25,7 @@
   -  Increase speed and agility
   -  Go global in minutes
 
-===================================================================================================
+---
 
 # Module 2: Compute in the Cloud
 
