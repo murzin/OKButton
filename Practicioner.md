@@ -458,38 +458,38 @@ At the highest level, the __AWS Cloud Adoption Framework (AWS CAF)__
 
 organizes guidance into __six areas of focus__, called __Perspectives__. Each Perspective addresses distinct responsibilities. The planning process helps the right people across the organization prepare for the changes ahead.
 
- *  Business Perspective
-   -  ensures that IT aligns with business needs and that IT investments link to key business results.
-    - Business managers
-    - Finance managers
-    - Budget owners
-    - Strategy stakeholders
- *  People Perspective
-   -  supports development of an organization-wide change management strategy for successful cloud adoption.
-    -       Human resources
-    -       Staffing
-    -       People managers
- *  Governance Perspective
-   -    focuses on the skills and processes to align IT strategy with business strategy.
-    -       Chief Information Officer (CIO)
-    -       Program managers
-    -       Enterprise architects
-    -       Business analysts
-    -       Portfolio managers 
- *  Platform Perspective
-   -    includes principles and patterns for implementing new solutions on the cloud, 
-    -       Chief Technology Officer (CTO)
-    -       IT managers
-    -       Solutions architects
- *  Security Perspective
-   -    ensures that th organization meets security objectives for visibility, auditability, control, and agility. 
-    -       Chief Information Security Officer (CISO)
-    -       IT security managers
-    -       IT security analysts
- *  Operations Perspective
-   -    helps you to enable, run, use, operate, and recover IT workloads to the level agreed upon with your business stakeholders.
-    -      IT operations managers
-    -      IT support managers
+  *  Business Perspective
+    -  ensures that IT aligns with business needs and that IT investments link to key business results.
+     - Business managers
+     - Finance managers
+     - Budget owners
+     - Strategy stakeholders
+  *  People Perspective
+    -  supports development of an organization-wide change management strategy for successful cloud adoption.
+     -       Human resources
+     -       Staffing
+     -       People managers
+  *  Governance Perspective
+    -    focuses on the skills and processes to align IT strategy with business strategy.
+     -       Chief Information Officer (CIO)
+     -       Program managers
+     -       Enterprise architects
+     -       Business analysts
+     -       Portfolio managers 
+  *  Platform Perspective
+    -    includes principles and patterns for implementing new solutions on the cloud, 
+     -       Chief Technology Officer (CTO)
+     -       IT managers
+     -       Solutions architects
+  *  Security Perspective
+    -    ensures that th organization meets security objectives for visibility, auditability, control, and agility. 
+     -       Chief Information Security Officer (CISO)
+     -       IT security managers
+     -       IT security analysts
+  *  Operations Perspective
+    -    helps you to enable, run, use, operate, and recover IT workloads to the level agreed upon with your business stakeholders.
+     -      IT operations managers
+     -      IT support managers
 
 
 6 strategies for migration
