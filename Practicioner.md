@@ -541,17 +541,17 @@ is a collection of physical devices that help to physically transport up to exab
 
 
 The Well-Architected Framework is based on five pillars: 
-  * Operational excellence
+  * __Operational excellence__
         is the ability to run and monitor systems to deliver business value and to continually improve supporting processes and procedures.  
-  * Security
+  * __Security__
         s the ability to protect information, systems, and assets while delivering business value through risk assessments and mitigation strategies. 
-  * Reliability
+  * __Reliability__
         Recover from infrastructure or service disruptions
         Dynamically acquire computing resources to meet demand
         Mitigate disruptions such as misconfigurations or transient network issues
-  * Performance efficiency
+  * __Performance efficiency__
         is the ability to use computing resources efficiently to meet system requirements
-  * Cost optimization
+  * __Cost optimization__
         is the ability to run systems to deliver business value at the lowest price point. 
 
 Advantages of cloud computing
