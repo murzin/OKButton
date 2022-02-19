@@ -1,22 +1,23 @@
 # Module 1: Introduction to Amazon Web Services
 
-  - Summarize the benefits of AWS
-  - Describe differences between on-demand delivery and cloud deployments
-  - Summarize the pay-as-you-go pricing model
+  Summarize the benefits of AWS
+  Describe differences between on-demand delivery and cloud deployments
+  Summarize the pay-as-you-go pricing model
+* * *
 
-## Deployment models for cloud computing
-  - __Cloud-based deployment:
+* Deployment models for cloud computing
+  - Cloud-based deployment:
       - Run all parts of the application in the cloud.
       - Migrate existing applications to the cloud.
       - Design and build new applications in the cloud.
-  - On-Premises depl в помещении
+  - On-Premises (depl в помещении)
       - Deploy resources by using virtualization and resource management tools.
       - Increase resource utilization by using application management and virtualization technologies.    
   - Hybrid
       - Connect cloud-based resources to on-premises infrastructure.
       - Integrate cloud-based resources with legacy IT applications.    
 
-## Benefits of cloud computing
+* Benefits of cloud computing
     Trade upfront expense for variable expense
     Stop spending money to run and maintain data centers
     Stop guessing capacity
