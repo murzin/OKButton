@@ -261,7 +261,6 @@
   - Amazon DynamoDB Accelerator
     - is an in-memory cache for DynamoDB. 
 
-
 ---
 
 # Module 6: Security
@@ -276,17 +275,17 @@
 * * *
 
 * Shared responsibility model
-    Customers are responsible for the security of everything that they create and put in the AWS Cloud.
-    AWS is responsible for security of the cloud.
+  - Customers are responsible for the security of everything that they create and put in the AWS Cloud.
+  - AWS is responsible for security of the cloud.
 
 * AWS Identity and Access Management (IAM) 
-    enables you to manage access to AWS services and resources securely.       
-        IAM users, groups, and roles
-        IAM policies
-        Multi-factor authentication
+  - enables you to manage access to AWS services and resources securely.       
+    -  IAM users, groups, and roles
+    -  IAM policies
+    -  Multi-factor authentication
         
-    Do not use the root user for everyday tasks. 
-    We recommend that you create individual IAM users for each person who needs to access AWS.
+  * Do not use the root user for everyday tasks. 
+  * We recommend that you create individual IAM users for each person who needs to access AWS.
 
 * IAM policies
     is a document that allows or denies permissions to AWS services and resources.  
