@@ -181,87 +181,85 @@
 * * *
 
 * Instance stores
-
-    Block-level storage volumes behave like physical hard drives.
-    When the instance is terminated, you lose any data in the instance store.
+  - Block-level storage volumes behave like physical hard drives.
+  - When the instance is terminated, you lose any data in the instance store.
 
 * Amazon Elastic Block Store (Amazon EBS) 
-
-    is a service that provides block-level storage volumes that you can use with Amazon EC2 instances. If you stop or terminate an Amazon EC2 instance, all the data on the attached EBS volume remains available.    
-    An EBS snapshot is an incremental backup.
-    An Amazon EBS volume stores data in a single Availability Zone.
+  - is a service that provides block-level storage volumes that you can use with Amazon EC2 instances. If you stop or terminate an Amazon EC2 instance, all the data on the attached EBS volume remains available.    
+  - An EBS snapshot is an incremental backup.
+  - An Amazon EBS volume stores data in a single Availability Zone.
 
 * Amazon Simple Storage Service (Amazon S3)
-    * Object storage
-        In object storage, each object consists of data, metadata, and a key.
-        is a service that provides object-level storage. Amazon S3 stores data as objects in buckets.
+  * Object storage
+    -  In object storage, each object consists of data, metadata, and a key.
+    -  is a service that provides object-level storage. Amazon S3 stores data as objects in buckets.
 
 * Amazon S3 storage classes
-   - S3 Standard
-        Designed for frequently accessed data
-        Stores data in a minimum of three Availability Zones
-   - S3 Standard-Infrequent Access (S3 Standard-IA)
-        Ideal for infrequently accessed data
-        Similar to S3 Standard but has a lower storage price and higher retrieval price
-   - S3 One Zone-Infrequent Access (S3 One Zone-IA)
-        Stores data in a single Availability Zone
-        Has a lower storage price than S3 Standard-IA
-   - S3 Intelligent-Tiering
-        Ideal for data with unknown or changing access patterns
-        Requires a small monthly monitoring and automation fee per object
-   - S3 Glacier
-        Low-cost storage designed for data archiving
-        Able to retrieve objects within a few minutes to hours
-   - S3 Glacier Deep Archive
-        Lowest-cost object storage class ideal for archiving
-        Able to retrieve objects within 12 hours
+  - S3 Standard
+    Designed for frequently accessed data
+    Stores data in a minimum of three Availability Zones
+  - S3 Standard-Infrequent Access (S3 Standard-IA)
+    Ideal for infrequently accessed data
+    Similar to S3 Standard but has a lower storage price and higher retrieval price
+  - S3 One Zone-Infrequent Access (S3 One Zone-IA)
+    Stores data in a single Availability Zone
+    Has a lower storage price than S3 Standard-IA
+  - S3 Intelligent-Tiering
+    Ideal for data with unknown or changing access patterns
+    Requires a small monthly monitoring and automation fee per object
+  - S3 Glacier
+    Low-cost storage designed for data archiving
+    Able to retrieve objects within a few minutes to hours
+  - S3 Glacier Deep Archive
+    Lowest-cost object storage class ideal for archiving
+    Able to retrieve objects within 12 hours
 
 * Amazon Elastic File System (Amazon EFS)
-    In file storage, multiple clients (such as users, applications, servers, and so on) can access data that is stored in shared file folders. 
-    is a scalable file system used with AWS Cloud services and on-premises resources.
-    Amazon EFS is a regional service. It stores data in and across multiple Availability Zones.
+  - In file storage, multiple clients (such as users, applications, servers, and so on) can access data that is stored in shared file folders. 
+  - is a scalable file system used with AWS Cloud services and on-premises resources.
+  - Amazon EFS is a regional service. It stores data in and across multiple Availability Zones.
 
 * Amazon Relational Database Service (Amazon RDS) 
-    is a service that enables you to run relational databases in the AWS Cloud.
+  - is a service that enables you to run relational databases in the AWS Cloud.
 
 * Amazon RDS database engines
-    - Amazon Aurora
-      - MySQL+PostgreSQL fast
-      - It replicates six copies of your data across three Availability Zones and continuously backs to Amazon S3.
-    - PostgreSQL
-    - MySQL
-    - MariaDB
-    - Oracle Database
-    - Microsoft SQL Server
+  - Amazon Aurora
+    - MySQL+PostgreSQL fast
+    - It replicates six copies of your data across three Availability Zones and continuously backs to Amazon S3.
+  - PostgreSQL
+  - MySQL
+  - MariaDB
+  - Oracle Database
+  - Microsoft SQL Server
 
 * Nonrelational databases
-    Amazon DynamoDB:
+  - Amazon DynamoDB:
       - is a key-value database service. It delivers single-digit millisecond performance at any scale.
       - is serverless,
       - automatically scales to adjust for changes in capacity
 
 * Amazon Redshift
-    is a data warehousing service that you can use for big data analytics.
+  - is a data warehousing service that you can use for big data analytics.
     
 * AWS Database Migration Service (AWS DMS) 
-    enables you to migrate relational databases, nonrelational databases, and other types of data stores.
-    Enabling developers to test applications against production data without affecting production users
-    Combining several databases into a single database
-    Sending ongoing copies of your data to other target sources instead of doing a one-time migration
+  - enables you to migrate relational databases, nonrelational databases, and other types of data stores.
+  - Enabling developers to test applications against production data without affecting production users
+  - Combining several databases into a single database
+  - Sending ongoing copies of your data to other target sources instead of doing a one-time migration
 
 * Additional database services
-   Amazon DocumentDB
-        is a document database service that supports MongoDB workloads. 
-   Amazon Neptune
-        is a graph database service. 
-   Amazon Quantum Ledger Database (Amazon QLDB)
-        is a ledger database service. 
-   Amazon Managed Blockchain
-        s a service that you can use to create and manage blockchain networks with open-source frameworks. 
-   Amazon ElastiCache
-        is a service that adds caching layers on top of your databases to help improve the read times of common requests.
-  Amazon DynamoDB Accelerator
-        s an in-memory cache for DynamoDB. 
+  - Amazon DocumentDB
+    - is a document database service that supports MongoDB workloads. 
+  - Amazon Neptune
+    - is a graph database service. 
+  - Amazon Quantum Ledger Database (Amazon QLDB)
+    - is a ledger database service. 
+  - Amazon Managed Blockchain
+    - is a service that you can use to create and manage blockchain networks with open-source frameworks. 
+  - Amazon ElastiCache
+    - is a service that adds caching layers on top of your databases to help improve the read times of common requests.
+  - Amazon DynamoDB Accelerator
+    - is an in-memory cache for DynamoDB. 
 
 
 ---
