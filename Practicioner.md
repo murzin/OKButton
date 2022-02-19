@@ -137,17 +137,21 @@
     Describe which services are used to interact with the AWS global network
 * * *
 
-Amazon Virtual Private Cloud (Amazon VPC)
+## Amazon Virtual Private Cloud (Amazon VPC)
+
 * Virtual private gateway
     To access private resources in a VPC, you can use a virtual private gateway. 
+
 * AWS Direct Connect 
     is a service that enables you to establish a dedicated private connection between your data center and a VPC.
+
 * Subnets
     A subnet is a section of a VPC in which you can group resources based on security or operational needs. Subnets can be public or private. 
 
 * Network access control lists (ACLs)
     A network access control list (ACL) is a virtual firewall that controls inbound and outbound traffic at the subnet level.
     Network ACLs perform stateless packet filtering.
+
 * Security groups
     A security group is a virtual firewall that controls inbound and outbound traffic for an Amazon EC2 instance.
     Security groups perform stateful packet filtering.
