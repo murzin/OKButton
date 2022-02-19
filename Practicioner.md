@@ -507,19 +507,19 @@ __6 strategies for migration__
    *  Retiring
       - Retiring is the process of removing applications that are no longer needed.
 
-* The AWS Snow Family 
+__The AWS Snow Family__
 
     is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS. 
 
   * AWS Snowcone 
-        is a small, rugged, and secure edge computing and data transfer device. 
-        It features 2 CPUs, 4 GB of memory, and 8 TB of usable storage.    
+    - is a small, rugged, and secure edge computing and data transfer device. 
+    - It features 2 CPUs, 4 GB of memory, and 8 TB of usable storage.    
   * Snowball Edge Storage Optimized devices 
-        are well suited for large-scale data migrations and recurring transfer workflows, in addition to local computing with higher capacity needs. 
-        Storage: 80 TB of hard disk drive (HDD) capacity for block volumes and Amazon S3 compatible object storage, and 1 TB of SATA solid state drive (SSD) for block volumes. 
-        Compute: 40 vCPUs, and 80 GiB of memory to support Amazon EC2 sbe1 instances (equivalent to C5).
+    - are well suited for large-scale data migrations and recurring transfer workflows, in addition to local computing with higher capacity needs. 
+    - Storage: 80 TB of hard disk drive (HDD) capacity for block volumes and Amazon S3 compatible object storage, and 1 TB of SATA solid state drive (SSD) for block volumes. 
+    - Compute: 40 vCPUs, and 80 GiB of memory to support Amazon EC2 sbe1 instances (equivalent to C5).
   * AWS Snowmobile is an exabyte-scale data transfer service used to move large amounts of data to AWS. 
-        transfer up to 100 petabytes of data per Snowmobile, a 45-foot long ruggedized shipping container
+    - transfer up to 100 petabytes of data per Snowmobile, a 45-foot long ruggedized shipping container
 
 
 ---
