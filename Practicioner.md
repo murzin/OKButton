@@ -422,8 +422,8 @@
 * AWS Support
 four different Support plans to help you troubleshoot issues, lower costs, and efficiently use AWS services. 
   * __Basic__
-   - access to a limited selection of AWS Trusted Advisor
-   - Additionally, you can use the AWS Personal Health Dashboard, a tool that provides alerts and remediation
+    - access to a limited selection of AWS Trusted Advisor
+    - Additionally, you can use the AWS Personal Health Dashboard, a tool that provides alerts and remediation
   * __Developer__
     - Best practice guidance
     - Client-side diagnostic tools
