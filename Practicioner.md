@@ -508,8 +508,7 @@ __6 strategies for migration__
       - Retiring is the process of removing applications that are no longer needed.
 
 __The AWS Snow Family__
-
-    is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS. 
+is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS. 
 
   * AWS Snowcone 
     - is a small, rugged, and secure edge computing and data transfer device. 
