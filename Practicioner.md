@@ -466,30 +466,30 @@ organizes guidance into __six areas of focus__, called __Perspectives__. Each Pe
      - Strategy stakeholders
   *  People Perspective
     -  supports development of an organization-wide change management strategy for successful cloud adoption.
-     -       Human resources
-     -       Staffing
-     -       People managers
+     - Human resources
+     - Staffing
+     - People managers
   *  Governance Perspective
-    -    focuses on the skills and processes to align IT strategy with business strategy.
-     -       Chief Information Officer (CIO)
-     -       Program managers
-     -       Enterprise architects
-     -       Business analysts
-     -       Portfolio managers 
+    -  focuses on the skills and processes to align IT strategy with business strategy.
+     - Chief Information Officer (CIO)
+     - Program managers
+     - Enterprise architects
+     - Business analysts
+     - Portfolio managers 
   *  Platform Perspective
-    -    includes principles and patterns for implementing new solutions on the cloud, 
-     -       Chief Technology Officer (CTO)
-     -       IT managers
-     -       Solutions architects
+    -  includes principles and patterns for implementing new solutions on the cloud, 
+     - Chief Technology Officer (CTO)
+     - IT managers
+     - Solutions architects
   *  Security Perspective
-    -    ensures that th organization meets security objectives for visibility, auditability, control, and agility. 
-     -       Chief Information Security Officer (CISO)
-     -       IT security managers
-     -       IT security analysts
+    -  ensures that th organization meets security objectives for visibility, auditability, control, and agility. 
+     - Chief Information Security Officer (CISO)
+     - IT security managers
+     - IT security analysts
   *  Operations Perspective
-    -    helps you to enable, run, use, operate, and recover IT workloads to the level agreed upon with your business stakeholders.
-     -      IT operations managers
-     -      IT support managers
+    -  helps you to enable, run, use, operate, and recover IT workloads to the level agreed upon with your business stakeholders.
+      - IT operations managers
+     - IT support managers
 
 
 6 strategies for migration
