@@ -18,12 +18,12 @@
       - Integrate cloud-based resources with legacy IT applications.    
 
 * Benefits of cloud computing
-    Trade upfront expense for variable expense
-    Stop spending money to run and maintain data centers
-    Stop guessing capacity
-    Benefit from massive economies of scale
-    Increase speed and agility
-    Go global in minutes
+  -  Trade upfront expense for variable expense
+  -  Stop spending money to run and maintain data centers
+  -  Stop guessing capacity
+  -  Benefit from massive economies of scale
+  -  Increase speed and agility
+  -  Go global in minutes
 
 ===================================================================================================
 
